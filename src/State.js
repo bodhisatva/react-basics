@@ -13,7 +13,6 @@ class State extends React.Component{
     this.setState({txt: e.target.value})
   }
 
-
   render(){
     return (
       <div>
